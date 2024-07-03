@@ -1,0 +1,15 @@
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\bin\Debug\net7.0\GTPA.Data.deps.json
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\bin\Debug\net7.0\GTPA.Data.dll
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\bin\Debug\net7.0\GTPA.Data.pdb
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\bin\Debug\net7.0\GTPA.Business.dll
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\bin\Debug\net7.0\GTPA.Business.pdb
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\GTPA.Data.csproj.AssemblyReference.cache
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\GTPA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\GTPA.Data.AssemblyInfoInputs.cache
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\GTPA.Data.AssemblyInfo.cs
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\GTPA.Data.csproj.CoreCompileInputs.cache
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\GTPA.Data.csproj.Up2Date
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\GTPA.Data.dll
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\refint\GTPA.Data.dll
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\GTPA.Data.pdb
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Data\obj\Debug\net7.0\ref\GTPA.Data.dll

@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D93749BA-1049-4EE9-905E-43E1AAFFAAFA}|GTPA.Data\\GTPA.Data.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.data\\repositories\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93749BA-1049-4EE9-905E-43E1AAFFAAFA}|GTPA.Data\\GTPA.Data.csproj|solutionrelative:gtpa.data\\repositories\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\apitramasgtpa\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|solutionrelative:apitramasgtpa\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\services\\tramasepelio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\services\\tramasepelio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\services\\tramaautomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\services\\tramaautomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\models\\tramaautomovil\\tramaauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\models\\tramaautomovil\\tramaauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\services\\help\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\services\\help\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\models\\tramaautomovil\\detalleriesgosautomoviles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\models\\tramaautomovil\\detalleriesgosautomoviles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\models\\tramaautomovil\\cabeceratramaauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\models\\tramaautomovil\\cabeceratramaauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\models\\genericos\\cabecera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\models\\genericos\\cabecera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\models\\enums\\tipolote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\models\\enums\\tipolote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\interfaces\\ifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\interfaces\\ifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\interfaces\\ilote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\interfaces\\ilote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\models\\dto\\tramaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\models\\dto\\tramaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\interfaces\\itrama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\interfaces\\itrama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\interfaces\\idetalleriesgossepeliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\interfaces\\idetalleriesgossepeliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\interfaces\\idetalleriesgosautomovilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\interfaces\\idetalleriesgosautomovilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\apitramasgtpa\\factory\\tramafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|solutionrelative:apitramasgtpa\\factory\\tramafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\apitramasgtpa\\controllers\\tramas\\tramascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|solutionrelative:apitramasgtpa\\controllers\\tramas\\tramascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\apitramasgtpa\\controllers\\tramas\\tramarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|solutionrelative:apitramasgtpa\\controllers\\tramas\\tramarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\apitramasgtpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0E71A-3793-4421-B2CF-32FEAFC839FF}|ApiTramasGTPA\\ApiTramasGTPA.csproj|solutionrelative:apitramasgtpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.business\\models\\genericos\\trama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463A1F74-10E7-4AC3-8792-85A6E7B9DE4F}|GTPA.Business\\GTPA.Business.csproj|solutionrelative:gtpa.business\\models\\genericos\\trama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93749BA-1049-4EE9-905E-43E1AAFFAAFA}|GTPA.Data\\GTPA.Data.csproj|c:\\users\\jmigu\\desktop\\apitramasgtpa\\gtpa.data\\repositories\\detalleriesgosautomovilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93749BA-1049-4EE9-905E-43E1AAFFAAFA}|GTPA.Data\\GTPA.Data.csproj|solutionrelative:gtpa.data\\repositories\\detalleriesgosautomovilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 33,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lote.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Data\\Repositories\\Lote.cs",
+              "RelativeDocumentMoniker": "GTPA.Data\\Repositories\\Lote.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Data\\Repositories\\Lote.cs",
+              "RelativeToolTip": "GTPA.Data\\Repositories\\Lote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T04:42:35.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TramaSepelio.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Services\\TramaSepelio.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Services\\TramaSepelio.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Services\\TramaSepelio.cs",
+              "RelativeToolTip": "GTPA.Business\\Services\\TramaSepelio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:14:35.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleRiesgosAutomoviles.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\TramaAutomovil\\DetalleRiesgosAutomoviles.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Models\\TramaAutomovil\\DetalleRiesgosAutomoviles.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\TramaAutomovil\\DetalleRiesgosAutomoviles.cs",
+              "RelativeToolTip": "GTPA.Business\\Models\\TramaAutomovil\\DetalleRiesgosAutomoviles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:09:05.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CabeceraTramaAuto.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\TramaAutomovil\\CabeceraTramaAuto.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Models\\TramaAutomovil\\CabeceraTramaAuto.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\TramaAutomovil\\CabeceraTramaAuto.cs",
+              "RelativeToolTip": "GTPA.Business\\Models\\TramaAutomovil\\CabeceraTramaAuto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:09:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TramaAutomovil.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Services\\TramaAutomovil.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Services\\TramaAutomovil.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Services\\TramaAutomovil.cs",
+              "RelativeToolTip": "GTPA.Business\\Services\\TramaAutomovil.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:08:55.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Services\\Help\\Util.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Services\\Help\\Util.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Services\\Help\\Util.cs",
+              "RelativeToolTip": "GTPA.Business\\Services\\Help\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:08:44.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "ApiTramasGTPA\\Configurations\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "ApiTramasGTPA\\Configurations\\DependencyInjectionConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:38:01.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TramaAuto.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\TramaAutomovil\\TramaAuto.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Models\\TramaAutomovil\\TramaAuto.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\TramaAutomovil\\TramaAuto.cs",
+              "RelativeToolTip": "GTPA.Business\\Models\\TramaAutomovil\\TramaAuto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:09:07.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TramaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\Dto\\TramaResponse.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Models\\Dto\\TramaResponse.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\Dto\\TramaResponse.cs",
+              "RelativeToolTip": "GTPA.Business\\Models\\Dto\\TramaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:03:17.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITrama.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\ITrama.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Interfaces\\ITrama.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\ITrama.cs",
+              "RelativeToolTip": "GTPA.Business\\Interfaces\\ITrama.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:03:12.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILote.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\ILote.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Interfaces\\ILote.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\ILote.cs",
+              "RelativeToolTip": "GTPA.Business\\Interfaces\\ILote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:03:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFile.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\IFile.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Interfaces\\IFile.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\IFile.cs",
+              "RelativeToolTip": "GTPA.Business\\Interfaces\\IFile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:02:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDetalleRiesgosSepelioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\IDetalleRiesgosSepelioRepository.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Interfaces\\IDetalleRiesgosSepelioRepository.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\IDetalleRiesgosSepelioRepository.cs",
+              "RelativeToolTip": "GTPA.Business\\Interfaces\\IDetalleRiesgosSepelioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:02:49.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoLote.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\Enums\\TipoLote.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Models\\Enums\\TipoLote.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\Enums\\TipoLote.cs",
+              "RelativeToolTip": "GTPA.Business\\Models\\Enums\\TipoLote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:42:09.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cabecera.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\Genericos\\Cabecera.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Models\\Genericos\\Cabecera.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\Genericos\\Cabecera.cs",
+              "RelativeToolTip": "GTPA.Business\\Models\\Genericos\\Cabecera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:42:33.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDetalleRiesgosAutomovilesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\IDetalleRiesgosAutomovilesRepository.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Interfaces\\IDetalleRiesgosAutomovilesRepository.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Interfaces\\IDetalleRiesgosAutomovilesRepository.cs",
+              "RelativeToolTip": "GTPA.Business\\Interfaces\\IDetalleRiesgosAutomovilesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:02:44.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TramaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Factory\\TramaFactory.cs",
+              "RelativeDocumentMoniker": "ApiTramasGTPA\\Factory\\TramaFactory.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Factory\\TramaFactory.cs",
+              "RelativeToolTip": "ApiTramasGTPA\\Factory\\TramaFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:58:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TramasController.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Controllers\\Tramas\\TramasController.cs",
+              "RelativeDocumentMoniker": "ApiTramasGTPA\\Controllers\\Tramas\\TramasController.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Controllers\\Tramas\\TramasController.cs",
+              "RelativeToolTip": "ApiTramasGTPA\\Controllers\\Tramas\\TramasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:52:01.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TramaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Controllers\\Tramas\\TramaRequest.cs",
+              "RelativeDocumentMoniker": "ApiTramasGTPA\\Controllers\\Tramas\\TramaRequest.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Controllers\\Tramas\\TramaRequest.cs",
+              "RelativeToolTip": "ApiTramasGTPA\\Controllers\\Tramas\\TramaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:51:42.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Program.cs",
+              "RelativeDocumentMoniker": "ApiTramasGTPA\\Program.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\ApiTramasGTPA\\Program.cs",
+              "RelativeToolTip": "ApiTramasGTPA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:46:24.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Trama.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\Genericos\\Trama.cs",
+              "RelativeDocumentMoniker": "GTPA.Business\\Models\\Genericos\\Trama.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Business\\Models\\Genericos\\Trama.cs",
+              "RelativeToolTip": "GTPA.Business\\Models\\Genericos\\Trama.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:42:50.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetalleRiesgosAutomovilesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Data\\Repositories\\DetalleRiesgosAutomovilesRepository.cs",
+              "RelativeDocumentMoniker": "GTPA.Data\\Repositories\\DetalleRiesgosAutomovilesRepository.cs",
+              "ToolTip": "C:\\Users\\jmigu\\Desktop\\ApiTramasGTPA\\GTPA.Data\\Repositories\\DetalleRiesgosAutomovilesRepository.cs",
+              "RelativeToolTip": "GTPA.Data\\Repositories\\DetalleRiesgosAutomovilesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:42:00.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

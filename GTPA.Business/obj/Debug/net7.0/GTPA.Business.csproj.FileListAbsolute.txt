@@ -1,0 +1,12 @@
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\bin\Debug\net7.0\GTPA.Business.deps.json
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\bin\Debug\net7.0\GTPA.Business.dll
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\bin\Debug\net7.0\GTPA.Business.pdb
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\GTPA.Business.csproj.AssemblyReference.cache
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\GTPA.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\GTPA.Business.AssemblyInfoInputs.cache
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\GTPA.Business.AssemblyInfo.cs
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\GTPA.Business.csproj.CoreCompileInputs.cache
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\GTPA.Business.dll
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\refint\GTPA.Business.dll
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\GTPA.Business.pdb
+C:\Users\jmigu\Desktop\ApiTramasGTPA\GTPA.Business\obj\Debug\net7.0\ref\GTPA.Business.dll
